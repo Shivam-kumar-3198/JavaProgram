@@ -1,4 +1,4 @@
-package JavaProgram;
+package JavaProgram.BASIC;
 
 //Client Class: Connection-oriented using TCP/IP
 import java.io.*;

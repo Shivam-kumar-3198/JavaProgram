@@ -1,4 +1,4 @@
-package JavaProgram;
+package JavaProgram.BASIC;
 class Cal 
 {
     void add(int a, int b){

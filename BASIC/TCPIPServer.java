@@ -1,4 +1,4 @@
-package JavaProgram;
+package JavaProgram.BASIC;
 //Server using TCP/IP
 // 0-1023 � Well known ports. These are allocated to server services by the Internet Assigned Numbers Authority (IANA)
 //1024-49151- Registered Port -These can be registered for services with the IANA

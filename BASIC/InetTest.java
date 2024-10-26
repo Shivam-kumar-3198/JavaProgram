@@ -1,4 +1,4 @@
-package JavaProgram;
+package JavaProgram.BASIC;
 import java.net.*;
 
 class InetTest {
